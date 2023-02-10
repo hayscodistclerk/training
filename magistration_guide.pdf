@@ -1,0 +1,136 @@
+Magistration Paperwork
+• The Magistrate Judge's office emails the days Magistration Documents
+  o PCA (Probable Cause Affidavit)
+  o Arrest Report
+• Sheriff's Office emails the days Magistration Warning
+  o BC (Conditions of Bond)
+  o Order on Bond
+  o MH (Mental Health Assessment)
+  o EPO (Emergency Protective Order)
+• Both offices will include a roster, of names and charges, at the start of the documents
+(mark on the roster, next to the defendant's name, which document have been received
+-see list of documents above)
+  o Create a folder in U drive titled *Date*Sorted
+  o Create another folder inside title 'Complete'
+  o Save PDFs into Sorted then move to complete as you go
+  o Print out Roster and cross off all Class C and Out of County charges (these are
+  not saved to cases, but still need to be sorted and saved within the folders
+• Open Mag Docs in Adobe (use F4 to open sidebar to view all docs)
+  o Select AR and PCA and extract into a new doc
+  o Save under the title 'Last name, First initial-charge-degree-date
+    • If an offender has multiple charges, you must keep the arrest report
+    inside the original PDF to combine with each PCA individually
+  o Mark on your Roster PCA to indicate you received a PCA for that offender and
+  charge
+  o Continue and Repeat process for each offender/charge
+• Open Mag Warnings in Adobe
+  o Extract and Save each individual document for each offender as 'Last, First-TitleDate'
+  o For EPO, save only the first page as a reminder it exists and delete the rest from
+  the original PDF
+  o Mark on roster what you've received as you go
+    • MW, EPO, MHMR, BC, IID
+• If there are Multiple PCAs for the individual with the same charge but different degrees
+make sure to match them to the correct case.
+  o Go to prefile case under charges and click arrest
+  o Match statute number to the PCA that was sent
+• Search the individuals name by the six-digit SO number listed on the roster
+• There should be a prefile case per charge under the indivduals name
+If there is no prefile case, check the AR. There should be a case number listed then. That
+is where the documents need to be scanned.
+• Each type of document listed above should have their own event that needs to be
+added. Only the Magistration Document event should already be in the case.
+    ■ Scan the AR and the correct PCA in each charge
+    ■ You will need to add the MW event and any other event when needed.
+    Make sure the date on the added events match the date in the corner of
+    the Magistration Roster.
+• EVENTS: COUNTY COURT/DISTRICT COURT
+  o Magistration Documents: MAGDOC/MAGDOC
+  o Magistrate's Warnings: MAG/MAGIS
+  o Order for Further Detention (MH): MHMR/MHAO-DC
+    • Must be sealed: Change security group based on Misdemeanor
+    or Felony
+        o Misd-Magistrate Court Secured Docs
+        o Fel-District Clerk Secured Images
+  o Bond Conditions: COND-BOND/CONDBOND
+  o lgniton Interlock Order: IID/11D (ONLY DWI)
+• The EPO does not need to be scanned into the event tab. Click on the Prot Ord tab while
+in the prefile case.
+  o Go to Protective orders tab
+  o Click the link symbol next to the plus sign at the top right corner
+  o Link the EPO listed and save (if missing, check with Magistration Office)
+• You only need to scan the documents that are listed above. There are usually lots of
+extra pages that have been sent over. These can be shredded.
+• Out of county charges and class C_ charges do not need to be scanned. These documents
+can be shredded.
+• Prefile cases for Class C charge should be closed if one was made.
+  o Go into the Prefile case, click on the administration tab, switch the status to
+  'Close Class C' and click OK
+• Prefile cases that begin with BF and RS (Released Surety) should be closed as well.
+  o Save Affidavit and Order separately
+  o Create new event in case RELSUR
+  o Change date
+  o Add related ORS-DC (order of release of surety)
+  o Check bond
+  o Date Posted (if there are multiple before date look at the Affidavit when it was
+  posted and bond company and amount then change to Released.
+  o To release (we only deal with Felony releases):
+  Click on Posted/Filed Bond
+    • Add (plus sign)
+    • Match date with date of order
+    • Status= Surety Released
+    • Location = District Clerks Office
+   o To close click on administration tab, change the status to "Admiration, Closed",
+    add the case number to the correct case in the not es portion and click OK.
+• If there are extra/multiple charges on AR and not on roster- double check the warrant
+numbers on MW then look up SO#
+  o Click name
+  o Jailings
+  o Find booking date closest to roster date
+  o Check magistaration dates
+  o Match warrant number on charge to MW
+• If case number is on warrant or they are being indicted you may need to change case
+status. If capias in inactive, reactivate executed capias.
+  o Right click capias executed
+  o Add related event (press F4 while in search box)
+  o Type react into search or code REACTIVEDC and choose to reactivate
+  o Change date to executed date
+  o Manually enter MagDocs and Warning
+• If a defendant has multiple cases on the roster, make sure the letter/judge are the
+same, you may have to change some to match the rest of the cases.
+  o Match and manually change assigned Judge for Misd and Fel to the lowest active
+  case number
+  o To Change:
+      ■ Click on Case
+      • Detail
+      • Click into case assignment
+      • Adjust case# to correct judge
+      • Change court
+      • Change judge name to match
+• To unseal any document:
+    o Go to Documents
+    o Select Document(s) that need to be unsealed
+    o Click 'Actions'
+    o Change Security Group to (Scanned Criminal Document)
+• Run Report:
+    o List Manager
+    o Check all County Clerk Courts and District Courts
+    o Continue
+    o Perform Query
+    o Select Cases
+    o Case Category Icon
+    o Choose Criminal- Continue
+    o Case type-Adult Felony, Misdemeanor-Next-Adult Misdemeanor-DC
+    o Case Status=Prefile (PREF}
+    o Start Date=Previous day/End Date= Roster Date
+    o Print and add date on the top of the list
+    o Double check all names on list have been properly entered and check off as you
+    go
+    o If there are names on the list that have been magistrated on a different date
+    write the date on your list
+      • To check magistration date for individual case
+      • Go to Parties and click on defendants name
+      • Click on name again and then Go to Jailings
+      • Click on Bookings, then Charges
+      • Click on the charge
+      • Mag info should show as Yes/No and show date
+o When list is complete turn in
